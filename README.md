@@ -5,3 +5,5 @@ This script is meant to plot actual surface temperatures of the solar system pla
 Calculated temperatures adopt a model which assumes the sun as a black body, and ignores any planet atmosphere present, for easier temperature calculation.
 
 I would cite the paper I used for the mathematical model, but I lost it :/
+
+To generate the plot, just run python Plot.py in terminal. 
